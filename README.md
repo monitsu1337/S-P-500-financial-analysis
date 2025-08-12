@@ -7,7 +7,7 @@ Download the `.html` file from this repository and open it in any web browser to
 - `S&P 500 Financial Fundamentals Analysis.Rmd` — R Markdown source file.
 - `S-P-500-Financial-Fundamentals-Analysis.html` — Knitted HTML report.
 - `S&P 500 Financial Analysis.R` — Supporting R script (optional).
-- `data/financials.csv` — Dataset used (if sharable).
+- `/financials.csv` — Dataset used.
 
 ##  Methods
 - **Exploratory Data Analysis (EDA)** — summary stats, histograms, scatter plots.
